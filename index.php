@@ -31,7 +31,7 @@
           <ul class="row ">
             <li class="nav-item btn btn-light ">
               <a id="home-btn" class="nav-link text-secondary font-weight-bold" aria-current="page"
-                href="index.html">Home</a>
+                href="index.php">Home</a>
             </li>
             <li class="nav-item btn btn-light">
               <a class="nav-link text-secondary font-weight-bold" href="features.html">Features</a>
